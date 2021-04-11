@@ -22,7 +22,7 @@ public class BulletScript : MonoBehaviour
     }
     private void OnEnable()
     {
-        print("enabled");
+        //print("enabled");
     }
     // Update is called once per frame
     void Update()

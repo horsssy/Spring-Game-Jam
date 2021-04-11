@@ -18,7 +18,7 @@ public class Movement : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        f.SetTile(new Vector3Int(-18, 9, 0), g);
+        //f.SetTile(new Vector3Int(-18, 9, 0), g);
     }
 
     // Update is called once per frame
